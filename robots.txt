@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ornelasroof.com/sitemap.xml
+Sitemap: https://asphaltroofrejuvenation.com/sitemap.xml
